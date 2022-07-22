@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MTAPITradePump.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MTAPIhost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="MTAPIport" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8222</Value>
+    </Setting>
+    <Setting Name="MTAPI_NS_Lot_multplier" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1E-05</Value>
+    </Setting>
+    <Setting Name="MTAPIslip" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
